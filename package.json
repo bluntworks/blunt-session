@@ -1,0 +1,19 @@
+{
+  "name": "blunt-session",
+  "version": "0.0.1",
+  "description": "Session management -- uses level db as store for connect type sessions",
+  "main": "session.js",
+  "scripts": {
+    "test": "node test/test.js"
+  },
+  "keywords": [
+    "Sessions",
+    "cookies"
+  ],
+  "author": "bluntworks",
+  "license": "MIT",
+  "dependencies": {
+    "blunt-stack": "0.0.1",
+    "blunt-log": "0.0.1"
+  }
+}
