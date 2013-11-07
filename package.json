@@ -11,9 +11,12 @@
     "cookies"
   ],
   "author": "bluntworks",
+  "repository": "git@github.com:bluntworks/blunt-session.git",
   "license": "MIT",
   "dependencies": {
     "blunt-stack": "0.0.1",
-    "blunt-log": "0.0.1"
+    "blunt-log": "0.0.1",
+    "level-delete-range": "~0.1.0",
+    "connect": "~2.11.0"
   }
 }
